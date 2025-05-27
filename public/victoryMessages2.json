@@ -1,0 +1,110 @@
+[
+  {
+    "nom": "Seiya",
+    "description": "Chevalier de Pégase",
+    "image": "/images/seiya.jpg",
+    "condition_victoire": "Victoire en affrontant le plus grand des adversaires."
+  },
+  {
+    "nom": "Shiryu",
+    "description": "Chevalier du Dragon",
+    "image": "/images/shiryu.jpg",
+    "condition_victoire": "Protéger ses amis avec son courage et sa force."
+  },
+  {
+    "nom": "Hyoga",
+    "description": "Chevalier du Cygne",
+    "image": "/images/hyoga.jpg",
+    "condition_victoire": "Geler ses ennemis avec une détermination glaciale."
+  },
+  {
+    "nom": "Shun",
+    "description": "Chevalier d’Andromède",
+    "image": "/images/shun.jpg",
+    "condition_victoire": "L’empathie et la compassion triomphent toujours."
+  },
+  {
+    "nom": "Ikki",
+    "description": "Chevalier du Phénix",
+    "image": "/images/ikki.jpg",
+    "condition_victoire": "Se relever toujours, plus fort de ses cendres."
+  },
+  {
+    "nom": "Saori",
+    "description": "Prêtresse de la Déesse Athéna",
+    "image": "/images/saori.jpg",
+    "condition_victoire": "Protéger Athéna coûte que coûte."
+  },
+  {
+    "nom": "Grand Pope",
+    "description": "Le Prêtre suprême",
+    "image": "/images/grand_pope.webp",
+    "condition_victoire": "Régner sur le Sanctuaire avec sagesse et justice."
+  },
+  {
+    "nom": "Kanon",
+    "description": "Chevalier des Gémeaux",
+    "image": "/images/kanon.jpg",
+    "condition_victoire": "Gagner par la manipulation et la stratégie."
+  },
+  {
+    "nom": "Saga",
+    "description": "Chevalier des Gémeaux",
+    "image": "/images/saga.jpg",
+    "condition_victoire": "Lutter contre son double maléfique pour la paix."
+  },
+  {
+    "nom": "Mu",
+    "description": "Chevalier du Bélier",
+    "image": "/images/mu.jpg",
+    "condition_victoire": "Réparer les armures sacrées pour aider les chevaliers."
+  },
+  {
+    "nom": "Aldébaran",
+    "description": "Chevalier du Taureau",
+    "image": "/images/aldebaran.jpg",
+    "condition_victoire": "Affronter ses ennemis avec une force indomptable."
+  },
+  {
+    "nom": "Dohko",
+    "description": "Chevalier de la Balance",
+    "image": "/images/dohko.jpg",
+    "condition_victoire": "Gardien de la sagesse et de la patience."
+  },
+  {
+    "nom": "Milo",
+    "description": "Chevalier du Scorpion",
+    "image": "/images/milo.jpg",
+    "condition_victoire": "Venir à bout de ses adversaires avec précision et rapidité."
+  },
+  {
+    "nom": "Aiolia",
+    "description": "Chevalier du Lion",
+    "image": "/images/aiolia.jpg",
+    "condition_victoire": "Briller comme le lion et protéger la justice."
+  },
+  {
+    "nom": "Shaka",
+    "description": "Chevalier de la Vierge",
+    "image": "/images/shaka.jpg",
+    "condition_victoire": "Atteindre l’illumination et maîtriser les forces cosmiques."
+  },
+  {
+    "nom": "Dohko",
+    "description": "Chevalier de la Balance",
+    "image": "/images/dohko.jpg",
+    "condition_victoire": "Conserver l’équilibre et la sagesse au Sanctuaire."
+  },
+  {
+    "nom": "Camus",
+    "description": "Chevalier du Verseau",
+    "image": "/images/camus.jpg",
+    "condition_victoire": "Geler le temps et contrôler la glace avec précision."
+  },
+  {
+    "nom": "Aphrodite",
+    "description": "Chevalier des Poissons",
+    "image": "/images/aphrodite.jpg",
+    "condition_victoire": "Utiliser la beauté mortelle pour vaincre ses ennemis."
+  }
+]

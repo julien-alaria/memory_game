@@ -1,0 +1,33 @@
+
+[
+  {
+    "nom": "Seiya",
+    "description" : "chevalier de Pégase",
+    "image": "/images/seiya.jpg",
+    "condition_victoire": "Victoire en affrontant le plus grand des adversaires."
+  },
+  {
+    "nom": "Ikki",
+    "description": "Chevalier du Scorpion",
+    "image": "/images/ikki.jpg",
+    "condition_victoire": "Surpasser ses limites personnelles pour remporter la bataille."
+  },
+  {
+    "nom": "Saori",
+    "description": "Prêtesse de la Déesse Athena",
+    "image": "/images/saori.jpg",
+    "condition_victoire": "Protéger Athéna coûte que coûte."
+  },
+  {
+    "nom": "Grand Pope",
+    "description": "Le Prêtre suprême",
+    "image": "/images/grand_pope.webp",
+    "condition_victoire": "Régner sur le Sanctuaire avec sagesse et justice."
+  },
+  {
+    "nom": "Kanon",
+    "description": "chevalier du Gémeaux",
+    "image": "/images/kanon.jpg",
+    "condition_victoire": "Gagner par la manipulation et la stratégie."
+  }
+]
